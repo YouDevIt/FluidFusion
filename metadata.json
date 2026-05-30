@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Fusion",
+  "description": "Un raffinato ed emozionante puzzle game idraulico in cui connettere tubi, valvole e far fluire liquidi neon per sintetizzare e miscelare colori con logica ed efficienza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
